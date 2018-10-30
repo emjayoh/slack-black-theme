@@ -987,3 +987,7 @@ div.c-virtual_list__scroll_container {
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar) {
   background-color: #111 !important;
 }
+
+c-scrollbar__hider {
+    background: #111 !important;
+}
